@@ -1,0 +1,7 @@
+%%writefile requirements.txt
+streamlit
+streamlit_tags
+pandas
+altair
+google-cloud-aiplatform
+vertexai
